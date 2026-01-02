@@ -51,9 +51,7 @@ python ai-pipeline/postprocessing/seg_converter.py \
 
 ## 🏗️ **Production Architecture**
 
-```
-Scanner → Java Worklist → MySQL → Spine AI → dcm4che PACS → OHIF Viewer
-```
+<img width="500" height="1000" alt="Image" src="https://github.com/user-attachments/assets/fd4e5d93-2c44-41d9-8407-aaf51739de02" />
 
 ### **Core Components**
 
