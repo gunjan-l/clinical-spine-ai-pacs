@@ -1,0 +1,777 @@
+{
+    "BodyPartExamined": "SPINE",
+    "ClinicalTrialSeriesID": "Session1",
+    "ClinicalTrialTimePointID": "1",
+    "SeriesDescription": "Spine Segmentation",
+    "SeriesNumber": "999",
+    "InstanceNumber": "1",
+    "segmentAttributes": [
+        [
+            {
+                "labelID": 1,
+                "SegmentDescription": "Spinal Cord",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D005A",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Spinal cord"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D005A",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Spinal cord"
+                }
+            },
+            {
+                "labelID": 2,
+                "SegmentDescription": "Spinal Canal",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0102",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebral canal"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0102",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebral canal"
+                }
+            },
+            {
+                "labelID": 11,
+                "SegmentDescription": "Cervical Vertebra 1",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3483",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Cervical vertebra 1"
+                }
+            },
+            {
+                "labelID": 12,
+                "SegmentDescription": "Cervical Vertebra 2",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3484",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Cervical vertebra 2"
+                }
+            },
+            {
+                "labelID": 13,
+                "SegmentDescription": "Cervical Vertebra 3",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3485",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Cervical vertebra 3"
+                }
+            },
+            {
+                "labelID": 14,
+                "SegmentDescription": "Cervical Vertebra 4",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3486",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Cervical vertebra 4"
+                }
+            },
+            {
+                "labelID": 15,
+                "SegmentDescription": "Cervical Vertebra 5",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3487",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Cervical vertebra 5"
+                }
+            },
+            {
+                "labelID": 16,
+                "SegmentDescription": "Cervical Vertebra 6",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3488",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Cervical vertebra 6"
+                }
+            },
+            {
+                "labelID": 17,
+                "SegmentDescription": "Cervical Vertebra 7",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3489",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Cervical vertebra 7"
+                }
+            },
+            {
+                "labelID": 21,
+                "SegmentDescription": "Thoracic Vertebra 1",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3490",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Thoracic vertebra 1"
+                }
+            },
+            {
+                "labelID": 22,
+                "SegmentDescription": "Thoracic Vertebra 2",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3491",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Thoracic vertebra 2"
+                }
+            },
+            {
+                "labelID": 23,
+                "SegmentDescription": "Thoracic Vertebra 3",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3492",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Thoracic vertebra 3"
+                }
+            },
+            {
+                "labelID": 24,
+                "SegmentDescription": "Thoracic Vertebra 4",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3493",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Thoracic vertebra 4"
+                }
+            },
+            {
+                "labelID": 25,
+                "SegmentDescription": "Thoracic Vertebra 5",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3494",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Thoracic vertebra 5"
+                }
+            },
+            {
+                "labelID": 26,
+                "SegmentDescription": "Thoracic Vertebra 6",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3495",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Thoracic vertebra 6"
+                }
+            },
+            {
+                "labelID": 27,
+                "SegmentDescription": "Thoracic Vertebra 7",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3496",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Thoracic vertebra 7"
+                }
+            },
+            {
+                "labelID": 28,
+                "SegmentDescription": "Thoracic Vertebra 8",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3497",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Thoracic vertebra 8"
+                }
+            },
+            {
+                "labelID": 29,
+                "SegmentDescription": "Thoracic Vertebra 9",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3498",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Thoracic vertebra 9"
+                }
+            },
+            {
+                "labelID": 30,
+                "SegmentDescription": "Thoracic Vertebra 10",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3499",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Thoracic vertebra 10"
+                }
+            },
+            {
+                "labelID": 31,
+                "SegmentDescription": "Thoracic Vertebra 11",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3500",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Thoracic vertebra 11"
+                }
+            },
+            {
+                "labelID": 32,
+                "SegmentDescription": "Thoracic Vertebra 12",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3501",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Thoracic vertebra 12"
+                }
+            },
+            {
+                "labelID": 41,
+                "SegmentDescription": "Lumbar Vertebra 1",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3502",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Lumbar vertebra 1"
+                }
+            },
+            {
+                "labelID": 42,
+                "SegmentDescription": "Lumbar Vertebra 2",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3503",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Lumbar vertebra 2"
+                }
+            },
+            {
+                "labelID": 43,
+                "SegmentDescription": "Lumbar Vertebra 3",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3504",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Lumbar vertebra 3"
+                }
+            },
+            {
+                "labelID": 44,
+                "SegmentDescription": "Lumbar Vertebra 4",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3505",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Lumbar vertebra 4"
+                }
+            },
+            {
+                "labelID": 45,
+                "SegmentDescription": "Lumbar Vertebra 5",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3506",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Lumbar vertebra 5"
+                }
+            },
+            {
+                "labelID": 46,
+                "SegmentDescription": "Lumbar Vertebra 6",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0202",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Vertebra"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "RID3507",
+                    "CodingSchemeDesignator": "RADLEX",
+                    "CodeMeaning": "Lumbar vertebra 6"
+                }
+            },
+            {
+                "labelID": 50,
+                "SegmentDescription": "Sacrum 1",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-11601",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Sacrum"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-11601",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Sacrum"
+                }
+            },
+            {
+                "labelID": 63,
+                "SegmentDescription": "Intervertebral Disc 1",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of C2-C3"
+                }
+            },
+            {
+                "labelID": 64,
+                "SegmentDescription": "Intervertebral Disc 2",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of C3-C4"
+                }
+            },
+            {
+                "labelID": 65,
+                "SegmentDescription": "Intervertebral Disc 3",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of C4-C5"
+                }
+            },
+            {
+                "labelID": 66,
+                "SegmentDescription": "Intervertebral Disc 4",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of C5-C6"
+                }
+            },
+            {
+                "labelID": 67,
+                "SegmentDescription": "Intervertebral Disc 5",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of C6-C7"
+                }
+            },
+            {
+                "labelID": 71,
+                "SegmentDescription": "Intervertebral Disc 6",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of C7-T1"
+                }
+            },
+            {
+                "labelID": 72,
+                "SegmentDescription": "Intervertebral Disc 7",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of T1-T2"
+                }
+            },
+            {
+                "labelID": 73,
+                "SegmentDescription": "Intervertebral Disc 8",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of T2-T3"
+                }
+            },
+            {
+                "labelID": 74,
+                "SegmentDescription": "Intervertebral Disc 9",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of T3-T4"
+                }
+            },
+            {
+                "labelID": 75,
+                "SegmentDescription": "Intervertebral Disc 10",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of T4-T5"
+                }
+            },
+            {
+                "labelID": 76,
+                "SegmentDescription": "Intervertebral Disc 11",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of T5-T6"
+                }
+            },
+            {
+                "labelID": 77,
+                "SegmentDescription": "Intervertebral Disc 12",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of T6-T7"
+                }
+            },
+            {
+                "labelID": 78,
+                "SegmentDescription": "Intervertebral Disc 13",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of T7-T8"
+                }
+            },
+            {
+                "labelID": 79,
+                "SegmentDescription": "Intervertebral Disc 14",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of T8-T9"
+                }
+            },
+            {
+                "labelID": 80,
+                "SegmentDescription": "Intervertebral Disc 15",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of T9-T10"
+                }
+            },
+            {
+                "labelID": 81,
+                "SegmentDescription": "Intervertebral Disc 16",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of T10-T11"
+                }
+            },
+            {
+                "labelID": 82,
+                "SegmentDescription": "Intervertebral Disc 17",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of T11-T12"
+                }
+            },
+            {
+                "labelID": 91,
+                "SegmentDescription": "Intervertebral Disc 18",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of T12-L1"
+                }
+            },
+            {
+                "labelID": 92,
+                "SegmentDescription": "Intervertebral Disc 19",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of L1-L2"
+                }
+            },
+            {
+                "labelID": 93,
+                "SegmentDescription": "Intervertebral Disc 20",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of L2-L3"
+                }
+            },
+            {
+                "labelID": 94,
+                "SegmentDescription": "Intervertebral Disc 21",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of L3-L4"
+                }
+            },
+            {
+                "labelID": 95,
+                "SegmentDescription": "Intervertebral Disc 22",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of L4-L5"
+                }
+            },
+            {
+                "labelID": 100,
+                "SegmentDescription": "Intervertebral Disc 23",
+                "SegmentAlgorithmType": "AUTOMATIC",
+                "SegmentedPropertyCategoryCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc"
+                },
+                "SegmentedPropertyTypeCodeSequence": {
+                    "CodeValue": "T-D0300",
+                    "CodingSchemeDesignator": "SRT",
+                    "CodeMeaning": "Intervertebral disc of L5-S1"
+                }
+            }
+        ]
+    ]
+}
