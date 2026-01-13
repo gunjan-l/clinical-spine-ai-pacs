@@ -53,7 +53,7 @@ python ai-pipeline/postprocessing/seg_converter.py \
 ## 🏗️ **Production Architecture**
 
 <div align="center">
-  <img width="50%" alt="Image" src="https://github.com/user-attachments/assets/fd4e5d93-2c44-41d9-8407-aaf51739de02" />
+  <img width="50%" alt="Image" src="https://github.com/user-attachments/assets/98e5cda9-7a48-4d22-9e7a-3e169573d5e8" />
 </div>
 
 ### **Core Components**
