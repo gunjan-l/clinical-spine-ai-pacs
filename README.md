@@ -6,8 +6,9 @@
 
 ## 📹 **Live Portfolio Demonstration**
 
+<!-- This is a hidden comment
 **[🎥 Watch Complete Pipeline Demo](https://youtu.be/fS-kg1Cc3Tc)** - See the system processing real spine MRI studies
-
+ -->
 ---
 
 ## 🏥 **Clinical Impact Delivered**
